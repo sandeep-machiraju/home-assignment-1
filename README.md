@@ -12,7 +12,7 @@ Be sure to include a README explaining what you prioritized and what you'd impro
 
 ## Design Reference
 
-Access the Figma design here: [INSERT YOUR FIGMA LINK]
+[Access the Figma design here](https://www.figma.com/design/vl5S1jD6PfEw6njaiUjnFQ/Home-Assignment---1?node-id=0-1&t=YaMx6UysuO0Ea9oT-1)
 
 You'll need to sign in to Figma to view the design details (colors, spacing, fonts). Your implementation should match the design as closely as possible. If you choose to deviate from the design, please explain your reasoning in your README.
 
@@ -55,8 +55,6 @@ Complete these tasks in order. If you can't finish everything, that's okay - we 
 4. **Responsive Layout**
    - Make the layout work on mobile devices (320px+)
    - Consider a drawer/modal for filters on mobile
-
-### Should Complete (Expected for Strong Candidates)
 
 5. **Price Range Slider**
    - Implement a dual-handle range slider
@@ -133,7 +131,7 @@ Each property in `properties.json` has the following structure:
 
 ## Technical Requirements
 
-- Use modern JavaScript (ES6+)
+- Use modern JavaScript (ES6+) / React
 - Write clean, maintainable code
 - Use semantic HTML
 - Ensure responsive design
@@ -186,6 +184,6 @@ We'll evaluate your submission based on:
 
 ## Questions?
 
-If you have any questions or need clarification, please reach out to [INSERT CONTACT EMAIL]. We're happy to help!
+If you have any questions or need clarification, please reply to same thread. We're happy to help!
 
 Good luck, and we look forward to seeing your work! 🏡
